@@ -11,7 +11,7 @@
 // preview[view:north, tilt:bottom diagonal]
 
 // width of the orifice
-holder_x_size = 30;
+holder_x_size = 39;
 
 // depth of the orifice
 holder_y_size = 10;
@@ -29,7 +29,7 @@ holder_x_count = 1;
 holder_y_count = 1;
 
 // orifice corner radius (roundness). Needs to be less than min(x,y)/2.
-corner_radius = 30;
+corner_radius = 0;
 
 // Use values less than 1.0 to make the bottom of the holder narrow
 taper_ratio = 1.0;
